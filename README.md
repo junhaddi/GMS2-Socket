@@ -1,2 +1,2 @@
 # GMS-Socket
-[GameMaker] Socket connect test
+GMS2 Socket connect test
