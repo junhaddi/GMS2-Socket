@@ -12,3 +12,5 @@ GMS2 Socket connect test
 GMS+PHP 통신: https://forum.yoyogames.com/index.php?threads/mysql-one-time-activation-codes.9852/#post-67205
 
 APM 구축: https://jimnong.tistory.com/612?category=464860
+
+MMO 예제: https://www.youtube.com/watch?v=EyNVeTzhC1w&list=PLLUWsMtogf9jQGzn3nAjAw2_aq3PM08pC
