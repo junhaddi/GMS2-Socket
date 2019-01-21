@@ -14,3 +14,5 @@ GMS+PHP 통신: https://forum.yoyogames.com/index.php?threads/mysql-one-time-act
 APM 구축: https://jimnong.tistory.com/612?category=464860
 
 MMO 예제: https://www.youtube.com/watch?v=EyNVeTzhC1w&list=PLLUWsMtogf9jQGzn3nAjAw2_aq3PM08pC
+
+GMS 버퍼: https://cafe.naver.com/playgm/98533
